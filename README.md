@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darren-finch
-- 👀 I’m interested in web development with React & JavaScript
-- 🌱 I’m currently learning Discrete Math 2 in college, with some JavaScript on the side.
+- 👀 I’m interested in all things web development
+- 🌱 I'm currently building full-stack apps with React & Spring Boot
 - 📫 You can reach me at my website, https://darrenfinch.com
 
 <!---
